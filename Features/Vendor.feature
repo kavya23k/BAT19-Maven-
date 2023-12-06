@@ -1,1 +1,1 @@
-
+This is vendor page. 
