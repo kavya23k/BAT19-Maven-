@@ -1,1 +1,1 @@
-This is vendor page.java. 
+This is vendor page. 
