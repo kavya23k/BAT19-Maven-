@@ -13,7 +13,7 @@ import io.cucumber.junit.CucumberOptions;
 			dryRun= false,
 			monochrome = true,
 			publish = true,
-			tags="@sanity"
+			tags="@smoke"
 			)	
 	public class TestRunner {
 	

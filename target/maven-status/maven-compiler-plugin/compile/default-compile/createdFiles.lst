@@ -1,0 +1,6 @@
+pageObject\ActivityLogPage.class
+pageObject\AdminPage.class
+pageObject\DiscountPage.class
+pageObject\VendorPage.class
+pageObject\CustomerPage.class
+pageObject\CustomerRolePage.class
