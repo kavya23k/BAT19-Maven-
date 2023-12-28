@@ -1,4 +1,4 @@
-Feature: Admin
+Feature:Admin
 
   @smoke
   Scenario: Login with your valid credential
